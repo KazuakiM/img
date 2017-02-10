@@ -1,0 +1,4 @@
+# https://github.com/github/gitignore/
+*.DS_Store
+.AppleDouble
+.LSOverride
